@@ -1,4 +1,15 @@
-usersettings_remove
-===================
+= User settings remove =
+Simple plugin for demonstrating Elgg-functionality.
 
-Elgg 1.8 Plugin for removing User settings in topbar-menu
+== Contents ==
+1. Features
+2. ToDo
+
+== 1. Features ==
+
+- Remove "settings" from topbar menu
+- Enable "settings" on profile page
+
+== 2. ToDo ==
+- test
+- discuss
